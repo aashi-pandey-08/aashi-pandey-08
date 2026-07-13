@@ -1,6 +1,7 @@
 <p align="center">
 <img src="banner.png" width="100%">
 </p>
+
 # Hi, I'm Aashi 👋
 
 B.E. Electronics + M.Sc. Economics @ BITS Hyderabad
