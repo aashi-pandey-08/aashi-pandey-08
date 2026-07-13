@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Aashi 👋
 
-<!--
-**aashi-pandey-08/aashi-pandey-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.E. Electronics + M.Sc. Economics @ BITS Hyderabad
 
-Here are some ideas to get you started:
+I'm passionate about building software, exploring embedded systems, and applying quantitative methods to real-world problems. I enjoy working at the intersection of engineering, data, and product development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### 🌧️ RainMumbai Pricing Engine
+A probabilistic pricing engine for NCDEX RAINMUMBAI weather futures using Monte Carlo simulation, Hidden Markov Models, and Extreme Value Theory.
+
+**Tech:** Python · NumPy · Pandas · Statistical Modeling · Monte Carlo · HMM · EVT
+
+### 💼 Digibuks Frontend
+Responsive frontend prototype developed during my Product Engineering internship.
+
+**Tech:** HTML · CSS · JavaScript · REST APIs
+
+---
+
+## Tech Stack
+
+### Languages
+- Python
+- C
+- JavaScript
+- HTML
+- CSS
+
+### Tools & Technologies
+- Git & GitHub
+- REST APIs
+- NumPy
+- Pandas
+- VS Code
+
+---
+
+## Currently Learning
+
+- Embedded Systems
+- Digital Design
+- DSA in C++
+- Verilog
+- Machine Learning
+
+---
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/pandey-aashi
+- Email: aashipandey2005@gmail.com
+
+Thanks for stopping by!
