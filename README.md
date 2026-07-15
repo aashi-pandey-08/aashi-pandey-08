@@ -2,7 +2,7 @@
 <img src="banner.png" width="80%">
 </p>
 
-# Hi, I'm Aashi 👋
+# Hi, I'm Aashi!
 
 B.E. Electronics + M.Sc. Economics @ BITS Hyderabad
 
